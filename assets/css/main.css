@@ -146,6 +146,12 @@ h1, h2, h3, h4, h5, h6,
   font-weight: bold;
   color: #2d0b84;
 }
+
+@media only screen and (max-width: 449px) {
+  .nav-link {
+    font-size: 5px;
+  }
+}
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/

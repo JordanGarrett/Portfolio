@@ -534,3 +534,18 @@ section {
   margin: 0 0 15px 0 0 0;
   padding: 0;
 }
+
+
+
+.footer {
+  background: #2d0b84;
+}
+
+.footer a {
+  color:#fff;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #ecdb95;
+}

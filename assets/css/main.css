@@ -33,8 +33,8 @@ h1, h2, h3, h4, h5, h6,
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/profile-img.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/profile-img.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/storyblocks-sunset-over-rocky-sea-coast_H8ogAvuyf.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/storyblocks-sunset-over-rocky-sea-coast_H8ogAvuyf.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
